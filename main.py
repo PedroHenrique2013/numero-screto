@@ -2,7 +2,7 @@
 idade = int(input("Informe sua idade: "))
 
 # 2. Verifica a condição
-if idade < 18:
+if idade < 16:
     print("Bloqueado!")
 else:
     print("Permitido!")
